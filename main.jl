@@ -4,8 +4,6 @@ using ConfigEnv
 using Dates
 import JSON
 
-cd("/home/caster/dev/assisters/")
-
 dotenv()
 
 tg = TelegramClient()
